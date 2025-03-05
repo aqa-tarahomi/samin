@@ -613,6 +613,7 @@ h1, h2, h3, h4, h5,
     position: absolute;
     inset: 0;
     z-index: 2;
+    height: 100vh !important;
   }
   .hero h1 {
     font-weight: 700;
