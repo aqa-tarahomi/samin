@@ -1230,8 +1230,3 @@ p , a{
 .heading p{
   font-size: 20px !important;
 }
-@media (max-width:992px) {
-  .main-br-point{
-    display: none;
-  }
-}
